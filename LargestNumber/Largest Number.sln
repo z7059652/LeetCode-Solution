@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Largest Number", "Largest Number\Largest Number.vcxproj", "{5E084993-90C2-4CAA-AAFE-2493BB1749FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E084993-90C2-4CAA-AAFE-2493BB1749FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E084993-90C2-4CAA-AAFE-2493BB1749FE}.Debug|Win32.Build.0 = Debug|Win32
+		{5E084993-90C2-4CAA-AAFE-2493BB1749FE}.Release|Win32.ActiveCfg = Release|Win32
+		{5E084993-90C2-4CAA-AAFE-2493BB1749FE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
